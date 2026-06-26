@@ -84,7 +84,7 @@ Resume-Rater/
 │
 ├── main.py
 ├── README.md
-└── sample_resume.txt
+└── .gitignore
 ```
 
 ---
