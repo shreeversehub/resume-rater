@@ -1,0 +1,19 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# PyCharm
+.idea/
+*.iml
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
